@@ -4,7 +4,7 @@
 
 ---
 
-![Cover Image](images/cover.jpg)
+![Cover Image](images/cover.png)
 
 ---
 
